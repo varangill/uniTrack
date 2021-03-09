@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render AddEntryPage correctly 1`] = `
+<div>
+  <div
+    className="subheader"
+  >
+    <div
+      className="content-container"
+    >
+      <h1
+        className="subheader__title"
+      >
+        Add Entry
+      </h1>
+    </div>
+  </div>
+  <div
+    className="content-container"
+  >
+    <EntryForm
+      onSubmit={[Function]}
+    />
+  </div>
+</div>
+`;
